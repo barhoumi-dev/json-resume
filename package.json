@@ -1,0 +1,12 @@
+{
+  "name": "JsonResume",
+  "version": "1.0.0",
+  "description": "JsonResume",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "jsonresume-theme-even": "^0.17.1",
+    "jsonresume-theme-mooser": "^0.2.3",
+    "resumed": "^3.0.1"
+  }
+}
