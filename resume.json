@@ -1,307 +1,164 @@
 {
   "$schema": "https://raw.githubusercontent.com/jsonresume/resume-schema/v1.0.0/schema.json",
   "basics": {
-    "name": "Bilel BARHOUMI",
-    "label": "Développeur Full-stack Symfony/Vue.js",
+    "name": "Richard Hendriks",
+    "label": "Programmer",
     "image": "",
-    "email": "infobilel@gmail.com",
-    "phone": "",
-    "url": "",
-    "summary": "Développeur web avec 5 ans d’expérience en développement d’applications PHP (5.6, 7) en utilisant le framework Symfony (2.7, 3.4 et 4) et 6 mois d’expérience en développement Vue.js, avec fortes connaissances en développement Agile, en culture DevOps et en système Linux. \n\nCOMPÉTENCES CLÉS :\n●\tExpertises : PHP, Symfony, Vue.Js, GitLab CI/CD, Linux \n●\tForte maîtrise : PhpUnit, SQL, HTML5, CSS3, Bootstrap, Jira, SCRUM\n",
+    "email": "richard.hendriks@mail.com",
+    "phone": "(912) 555-4321",
+    "url": "http://richardhendricks.example.com",
+    "summary": "Richard hails from Tulsa. He has earned degrees from the University of Oklahoma and Stanford. (Go Sooners and Cardinal!) Before starting Pied Piper, he worked for Hooli as a part time software developer. While his work focuses on applied information theory, mostly optimizing lossless compression schema of both the length-limited and adaptive variants, his non-work interests range widely, everything from quantum computing to chaos theory. He could tell you about it, but THAT would NOT be a “length-limited” conversation!",
     "location": {
+      "address": "2712 Broadway St",
+      "postalCode": "CA 94115",
+      "city": "San Francisco",
       "countryCode": "US",
-      "address": ""
+      "region": "California"
     },
     "profiles": [
       {
-        "network": "LinkedIn",
-        "username": "ACoAAA85T-gB-6JoUB3uGV3dy7YnpGK8RVd_DmM",
-        "url": "https://www.linkedin.com/in/ACoAAA85T-gB-6JoUB3uGV3dy7YnpGK8RVd_DmM/"
+        "network": "Twitter",
+        "username": "neutralthoughts",
+        "url": ""
       },
       {
-        "network": "Twitter",
-        "username": "Bilel_Barhoumi",
-        "url": "https://twitter.com/Bilel_Barhoumi"
+        "network": "SoundCloud",
+        "username": "dandymusicnl",
+        "url": "https://soundcloud.example.com/dandymusicnl"
       }
     ]
   },
   "work": [
     {
-      "name": "Vente-unique.com",
-      "position": "Ingénieur recherche/développement",
-      "startDate": "2020-05-31",
-      "endDate": "",
-      "highlights": [],
-      "url": "https://www.linkedin.com/company/vente-unique.com/",
-      "location": "France"
-    },
-    {
-      "name": "Bouygues Telecom",
-      "position": "Développeur Full-stack Symfony - Vue.js ",
-      "startDate": "2017-07-31",
-      "endDate": "2020-04-30",
-      "highlights": [],
-      "summary": "COMPÉTENCES CLÉS:\n  - Symfony3/4, PHP5/7, PhpuUnit, MySQL\n  - GitLab CI/CD, Jenkins, SonarQube, ElasticSearch\n  - Vuejs, OAuth2, OpenId\n  - Centos, RedHat\n\nMISSIONS:\n•\tParticipation à la maintenance évolutive de l’ensemble des applications utilisées par le support des clients Bouygues Télécoms Entreprise. Ces applications sont développées en PHP avec, principalement, le framework Symfony. \n\n•\tMise en place du socle d’une nouvelle application Vue.js en définissant : l’architecture à suivre, les mécanismes d’authentification (OpenId, JWT), le processus d’intégration contenue avec Gitlab CI, les pratiques à suivre en développement. Ainsi, la participation au développement et le revu de code.\n\n•\tInstallation et configuration de l’outils de supervision AppDynamics pour superviser les applications, les serveurs de bases de données et les serveurs de production. L’objectif est de surveiller le comportement des applications et de trouver des axes d’amélioration de performance.\n\n•\tAmélioration du process du développement au sein de l’équipe : insister sur les bonnes pratiques en développement Php/symfony, améliorer la couverture des tests Phpunit, faire de l’intégration continue avec Gitlab CI.\n\n•\tEvolution des architectures des applications, pour répondre aux exigences de sécurités et pour faciliter la maintenance, en se basant sur l’architecture micro services.\n\n•\tGarantie du bon fonctionnement des environnements de test, de préproduction et de production, fonctionnant sur des VMs CentOS. Ainsi, l’installation et la configuration de toutes nouvelles applications sur les trois environnements.",
-      "url": "https://www.linkedin.com/company/bouygues-telecom/",
-      "location": "France"
-    },
-    {
-      "name": "Talan Tunisie",
-      "position": "Consultant Senior Symfony",
-      "startDate": "2016-04-30",
-      "endDate": "2017-06-30",
-      "highlights": [],
-      "summary": "COMPÉTENCES CLÉS:\n  - Symfony2, PHP5, BlackFire, Insight, PhpUnit\n  - MySQL, PostgreSQL\n  - Git, SVN, GitLab\n  - CentOs, Ubuntu\n  - Jira, Agile/Scrum\n\nMISSIONS:\n•\tContribution à la conception et l’implémentation d’une solution back office pour un groupe de restaurations. L’application développée en PHP/Symfony comporte 3 grands modules à savoir : Gestion de la marchandise, gestion du flux financier et gestion du personnel. \n\n•\tPortail Coud : Migration d’une API SOAP en une API Rest qui permet aux clients d'un opérateur Télécom de mieux gérer leur ressources cloud.\n•\tEncadrement d’une équipe de 3 stagiaires dans la mise en place d’un BO SAAS pour le secteur de restauration.",
-      "url": "https://www.linkedin.com/company/talan-tunisie/",
-      "location": "Tunisie"
-    },
-    {
-      "name": "Ibs IT",
-      "position": "Ingénieur développeur Symfony",
-      "startDate": "2014-12-31",
-      "endDate": "2016-03-31",
-      "highlights": [],
-      "summary": "COMPÉTENCES CLÉS:\n  - Symfony2, PHP5\n  - HTML, CSS, Less, jQuery, JavaScript, Bootstrap\n  - Doctrine, MySQL\n  - Ubuntu, CentOS, Amazon EC2\n  - Jira, Agile/Scrum\n\nMISSION:\n●\tParticipation à la conception, le développement et la mise en production des applications web en utilisant la framework Symfony sur AWS.\n●\tRéalisations :\n   o\tRefonte d’une application web en passant du Framework Yii à Symfony.\n   o\tAfrica Press List : une plateforme pour la création et l'envoie de communiqués de presses à travers les réseaux sociaux.\n   o\tBidX Hotline : une plateforme de création et de suivie de questionnaires en ligne accessibles par téléphone destiné pour les utilisateurs qui ont un accès limité à internet.",
-      "url": "https://www.linkedin.com/company/ibs-it/",
-      "location": "Tunisie"
-    },
-    {
-      "name": "Widex Tunisia",
-      "position": "Projet de Fin d'Etude",
-      "startDate": "2014-04-30",
-      "endDate": "2014-08-31",
-      "highlights": [],
-      "summary": "Conception et développement  d'une plateforme riche pour la création et gestion des Affiches Intelligentes en utilisant la technologie NFC.\n\nTechnologies: Android, Symfony2, PHP5, Wordpress, WS Rest, NFC",
-      "url": "https://www.linkedin.com/company/widex-tunisie/",
-      "location": "Tunisie"
+      "name": "Pied Piper",
+      "location": "Palo Alto, CA",
+      "description": "Awesome compression company",
+      "position": "CEO/President",
+      "url": "http://piedpiper.example.com",
+      "startDate": "2013-12-01",
+      "endDate": "2014-12-01",
+      "summary": "Pied Piper is a multi-platform technology based on a proprietary universal compression algorithm that has consistently fielded high Weisman Scores™ that are not merely competitive, but approach the theoretical limit of lossless compression.",
+      "highlights": [
+        "Build an algorithm for artist to detect if their music was violating copy right infringement laws",
+        "Successfully won Techcrunch Disrupt",
+        "Optimized an algorithm that holds the current world record for Weisman Scores"
+      ]
     }
   ],
-  "volunteer": [],
+  "volunteer": [
+    {
+      "organization": "CoderDojo",
+      "position": "Teacher",
+      "url": "http://coderdojo.example.com/",
+      "startDate": "2012-01-01",
+      "endDate": "2013-01-01",
+      "summary": "Global movement of free coding clubs for young people.",
+      "highlights": [
+        "Awarded 'Teacher of the Month'"
+      ]
+    }
+  ],
   "education": [
     {
-      "institution": "INSAT",
-      "area": "Ingénieur Génie Logiciel",
-      "studyType": "Diplôme d'ingénieur",
-      "startDate": "2009-12-31",
-      "endDate": "2014-12-31",
-      "score": "Très bien",
-      "courses": []
-    },
-    {
-      "institution": "Lycée 20 Mars 1956 Essaïda",
-      "area": "Sciences informatiques",
-      "studyType": "Baccalauréat",
-      "startDate": "2005-12-31",
-      "endDate": "2009-12-31",
-      "score": "Très Bien",
-      "courses": []
+      "institution": "University of Oklahoma",
+      "url": "https://www.ou.edu/",
+      "area": "Information Technology",
+      "studyType": "Bachelor",
+      "startDate": "2011-06-01",
+      "endDate": "2014-01-01",
+      "score": "4.0",
+      "courses": [
+        "DB1101 - Basic SQL",
+        "CS2011 - Java Introduction"
+      ]
     }
   ],
-  "awards": [],
-  "certificates": [
+  "awards": [
     {
-      "name": "HTML5 QUIZ ADVANCED LEVEL",
-      "issuer": "SkillValue",
-      "startDate": "2020-01-31",
-      "url": "https://skillvalue.com/en/certificate/qk0bjw167Q8dOM1tjQI7MOISp1hNcttdOtizayK2eY2N4ByMLzBAoMVEvOn5"
-    },
-    {
-      "name": "PHP SYMFONY 3.X QUIZ NIVEAU AVANCÉ",
-      "issuer": "SkillValue",
-      "startDate": "2020-01-31",
-      "url": "https://skillvalue.com/fr/certificate/5xvH8CFIewqBvrfI1isYVCk3MEESSeSItkMdb0NGVYXEVQxYeg9L3g5JuVih"
-    },
-    {
-      "name": "PHP SYMFONY 4.0 QUIZ MEDIUM LEVEL",
-      "issuer": "SkillValue",
-      "startDate": "2020-01-31",
-      "url": "https://skillvalue.com/en/certificate/gNGbmKJiRpGVK8jHMPo5xnn1M70lEqyEi6d8Is5TdJn0qSzWMhR6zNzPs5Bf"
-    },
-    {
-      "name": "VUE.JS QUIZ MEDIUM LEVEL",
-      "issuer": "SkillValue",
-      "startDate": "2020-01-31",
-      "url": "https://skillvalue.com/en/certificate/uAwaQPZfrRyVxkQpsfgBx7oZcVGhM0pgWEFVKVhskxrooyvdggQ7CWEPMA5E"
-    },
-    {
-      "name": "Certified ScrumMaster® (CSM®)",
-      "issuer": "Scrum Alliance®",
-      "endDate": "2021-12-31",
-      "startDate": "2019-11-30",
-      "url": "http://bcert.me/sixlfacli"
+      "title": "Digital Compression Pioneer Award",
+      "date": "2014-11-01",
+      "awarder": "Techcrunch",
+      "summary": "There is no spoon."
     }
   ],
-  "publications": [],
+  "publications": [
+    {
+      "name": "Video compression for 3d media",
+      "publisher": "Hooli",
+      "releaseDate": "2014-10-01",
+      "url": "http://en.wikipedia.org/wiki/Silicon_Valley_(TV_series)",
+      "summary": "Innovative middle-out compression algorithm that changes the way we store data."
+    }
+  ],
   "skills": [
     {
-      "name": "Symfony",
-      "level": "",
-      "keywords": []
+      "name": "Web Development",
+      "level": "Master",
+      "keywords": [
+        "HTML",
+        "CSS",
+        "Javascript"
+      ]
     },
     {
-      "name": "PHP",
-      "level": "",
-      "keywords": []
-    },
-    {
-      "name": "DevOps",
-      "level": "",
-      "keywords": []
-    },
-    {
-      "name": "Linux",
-      "level": "",
-      "keywords": []
-    },
-    {
-      "name": "Bootstrap",
-      "level": "",
-      "keywords": []
-    },
-    {
-      "name": "CSS",
-      "level": "",
-      "keywords": []
-    },
-    {
-      "name": "jQuery",
-      "level": "",
-      "keywords": []
-    },
-    {
-      "name": "Git",
-      "level": "",
-      "keywords": []
-    },
-    {
-      "name": "JIRA",
-      "level": "",
-      "keywords": []
-    },
-    {
-      "name": "Apache",
-      "level": "",
-      "keywords": []
-    },
-    {
-      "name": "JavaScript",
-      "level": "",
-      "keywords": []
-    },
-    {
-      "name": "SQL",
-      "level": "",
-      "keywords": []
-    },
-    {
-      "name": "Jenkins",
-      "level": "",
-      "keywords": []
-    },
-    {
-      "name": "PHPUnit",
-      "level": "",
-      "keywords": []
-    },
-    {
-      "name": "Nginx",
-      "level": "",
-      "keywords": []
-    },
-    {
-      "name": "Doctrine",
-      "level": "",
-      "keywords": []
-    },
-    {
-      "name": "GitLab",
-      "level": "",
-      "keywords": []
-    },
-    {
-      "name": "BlackFire",
-      "level": "",
-      "keywords": []
-    },
-    {
-      "name": "Insight",
-      "level": "",
-      "keywords": []
-    },
-    {
-      "name": "Méthodes agiles",
-      "level": "",
-      "keywords": []
-    },
-    {
-      "name": "Talan Tunisie",
-      "level": "",
-      "keywords": []
-    },
-    {
-      "name": "ElasticSearch",
-      "level": "",
-      "keywords": []
-    },
-    {
-      "name": "Script Shell",
-      "level": "",
-      "keywords": []
-    },
-    {
-      "name": "Feuilles de Style en cascade (CSS)",
-      "level": "",
-      "keywords": []
-    },
-    {
-      "name": "Outils de collaboration",
-      "level": "",
-      "keywords": []
+      "name": "Compression",
+      "level": "Master",
+      "keywords": [
+        "Mpeg",
+        "MP4",
+        "GIF"
+      ]
     }
   ],
   "languages": [
     {
       "language": "English",
-      "fluency": "Native Speaker"
-    },
-    {
-      "fluency": "Native Speaker",
-      "language": "Arabe"
-    },
-    {
-      "fluency": "Professional Working",
-      "language": "Anglais"
-    },
-    {
-      "fluency": "Professional Working",
-      "language": "Français"
+      "fluency": "Native speaker"
     }
   ],
-  "interests": [],
-  "references": [],
+  "interests": [
+    {
+      "name": "Wildlife",
+      "keywords": [
+        "Ferrets",
+        "Unicorns"
+      ]
+    }
+  ],
+  "references": [
+    {
+      "name": "Erlich Bachman",
+      "reference": "It is my pleasure to recommend Richard, his performance working as a consultant for Main St. Company proved that he will be a valuable addition to any company."
+    }
+  ],
   "projects": [
     {
-      "name": "TapTag Manager",
-      "startDate": "2014-04-30",
-      "summary": "Conception et développement d'une plateforme riche pour la création et gestion des Affiches Intelligentes en utilisant la technologie NFC.\n\nTechnologies: Android, Symfony2, PHP5, Wordpress, WS Rest, NFC \n",
-      "url": "http://www.taptag.tn",
-      "endDate": "2014-04-30"
-    },
-    {
-      "name": "Africa Press List",
-      "startDate": "",
-      "summary": "Africa Press List est une plateforme pour la création et l'envoie de communiqués de presses à travers les réseaux sociaux. Mots clé: Payment gateway (mollie + wefact), Multi-user profiling, Login with social media, Press releases with Mandrill.\n\nTechnologies: Symfony2, Php5, Doctrine2\nLangage: HTML, CSS, jQuery",
-      "url": "http://www.africapresslist.com/"
-    },
-    {
-      "name": "BidX Hotline",
-      "startDate": "",
-      "summary": "BidX Hotline est une plateforme de création et de suivie de questionnaires en ligne accessibles par téléphone destiné pour les utilisateurs qui ont un accès limité à internet.\n\nTechnologie: Symfony2, Php5, Doctrine2, Bootstrap\nLangage: HTML, CSS, jQuery",
-      "url": "https://bidx.net/hotline/"
+      "name": "Miss Direction",
+      "description": "A mapping engine that misguides you",
+      "highlights": [
+        "Won award at AIHacks 2016",
+        "Built by all women team of newbie programmers",
+        "Using modern technologies such as GoogleMaps, Chrome Extension and Javascript"
+      ],
+      "keywords": [
+        "GoogleMaps",
+        "Chrome Extension",
+        "Javascript"
+      ],
+      "startDate": "2016-08-24",
+      "endDate": "2016-08-24",
+      "url": "missdirection.example.com",
+      "roles": [
+        "Team lead",
+        "Designer"
+      ],
+      "entity": "Smoogle",
+      "type": "application"
     }
   ],
   "meta": {
+    "canonical": "https://raw.githubusercontent.com/jsonresume/resume-schema/master/resume.json",
     "version": "v1.0.0",
-    "canonical": "https://github.com/jsonresume/resume-schema/blob/v1.0.0/schema.json"
+    "lastModified": "2017-12-24T15:53:00"
   }
 }
